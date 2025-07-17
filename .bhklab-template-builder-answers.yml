@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: v0.14.1
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.jamesbannon@gmail.com
+author_full_name: James Bannon
+github_username: jbannon
+has_additional_authors: false
+project_description: using topology for sorting drugs in a personalized way
+project_name: Drug Recommendation with Discrete Hodge Theory
+project_slug: hodge-drug-rec
+publish_to_github: true
+python_version: '3.12'
+repo_location: bhklab
